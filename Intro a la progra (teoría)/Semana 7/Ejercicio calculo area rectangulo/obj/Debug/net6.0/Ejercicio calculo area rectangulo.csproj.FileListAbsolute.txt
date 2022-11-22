@@ -1,0 +1,15 @@
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Ejercicio calculo area rectangulo\bin\Debug\net6.0\Ejercicio calculo area rectangulo.exe
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Ejercicio calculo area rectangulo\bin\Debug\net6.0\Ejercicio calculo area rectangulo.deps.json
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Ejercicio calculo area rectangulo\bin\Debug\net6.0\Ejercicio calculo area rectangulo.runtimeconfig.json
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Ejercicio calculo area rectangulo\bin\Debug\net6.0\Ejercicio calculo area rectangulo.dll
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Ejercicio calculo area rectangulo\bin\Debug\net6.0\ref\Ejercicio calculo area rectangulo.dll
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Ejercicio calculo area rectangulo\bin\Debug\net6.0\Ejercicio calculo area rectangulo.pdb
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Ejercicio calculo area rectangulo\obj\Debug\net6.0\Ejercicio calculo area rectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Ejercicio calculo area rectangulo\obj\Debug\net6.0\Ejercicio calculo area rectangulo.AssemblyInfoInputs.cache
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Ejercicio calculo area rectangulo\obj\Debug\net6.0\Ejercicio calculo area rectangulo.AssemblyInfo.cs
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Ejercicio calculo area rectangulo\obj\Debug\net6.0\Ejercicio calculo area rectangulo.csproj.CoreCompileInputs.cache
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Ejercicio calculo area rectangulo\obj\Debug\net6.0\Ejercicio calculo area rectangulo.dll
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Ejercicio calculo area rectangulo\obj\Debug\net6.0\ref\Ejercicio calculo area rectangulo.dll
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Ejercicio calculo area rectangulo\obj\Debug\net6.0\Ejercicio calculo area rectangulo.pdb
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Ejercicio calculo area rectangulo\obj\Debug\net6.0\Ejercicio calculo area rectangulo.genruntimeconfig.cache
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Ejercicio calculo area rectangulo\obj\Debug\net6.0\Ejercicio calculo area rectangulo.csproj.AssemblyReference.cache

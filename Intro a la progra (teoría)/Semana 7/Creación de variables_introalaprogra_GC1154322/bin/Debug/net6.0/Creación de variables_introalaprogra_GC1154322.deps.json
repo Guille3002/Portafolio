@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Creación de variables_introalaprogra_GC1154322/1.0.0": {
+        "runtime": {
+          "Creación de variables_introalaprogra_GC1154322.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Creación de variables_introalaprogra_GC1154322/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Guillermo Contreras 1154322/1.0.0": {
+        "runtime": {
+          "Guillermo Contreras 1154322.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guillermo Contreras 1154322/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

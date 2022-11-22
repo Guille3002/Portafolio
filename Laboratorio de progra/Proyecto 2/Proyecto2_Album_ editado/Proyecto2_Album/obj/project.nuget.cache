@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4MCtMxHuYhL9H/M26wfa6kW0sVW1EujDtt8UFvFrQCBZ+kijHtq2VxFY0KlmvyGCv67bqIPOjYYyBAMZbG8hsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gcont\\Downloads\\Proyecto2_Album\\Proyecto2_Album\\Proyecto2_Album.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gcont\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\gcont\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\gcont\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gcont\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

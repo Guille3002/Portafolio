@@ -1,0 +1,17 @@
+C:\Users\DixonEstuardo\source\repos\115432GC_S11C1\115432GC_S11C1\bin\Debug\net6.0-windows\115432GC_S11C1.exe
+C:\Users\DixonEstuardo\source\repos\115432GC_S11C1\115432GC_S11C1\bin\Debug\net6.0-windows\115432GC_S11C1.deps.json
+C:\Users\DixonEstuardo\source\repos\115432GC_S11C1\115432GC_S11C1\bin\Debug\net6.0-windows\115432GC_S11C1.runtimeconfig.json
+C:\Users\DixonEstuardo\source\repos\115432GC_S11C1\115432GC_S11C1\bin\Debug\net6.0-windows\115432GC_S11C1.dll
+C:\Users\DixonEstuardo\source\repos\115432GC_S11C1\115432GC_S11C1\bin\Debug\net6.0-windows\115432GC_S11C1.pdb
+C:\Users\DixonEstuardo\source\repos\115432GC_S11C1\115432GC_S11C1\obj\Debug\net6.0-windows\115432GC_S11C1.csproj.AssemblyReference.cache
+C:\Users\DixonEstuardo\source\repos\115432GC_S11C1\115432GC_S11C1\obj\Debug\net6.0-windows\_115432GC_S11C1.Form1.resources
+C:\Users\DixonEstuardo\source\repos\115432GC_S11C1\115432GC_S11C1\obj\Debug\net6.0-windows\115432GC_S11C1.csproj.GenerateResource.cache
+C:\Users\DixonEstuardo\source\repos\115432GC_S11C1\115432GC_S11C1\obj\Debug\net6.0-windows\115432GC_S11C1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DixonEstuardo\source\repos\115432GC_S11C1\115432GC_S11C1\obj\Debug\net6.0-windows\115432GC_S11C1.AssemblyInfoInputs.cache
+C:\Users\DixonEstuardo\source\repos\115432GC_S11C1\115432GC_S11C1\obj\Debug\net6.0-windows\115432GC_S11C1.AssemblyInfo.cs
+C:\Users\DixonEstuardo\source\repos\115432GC_S11C1\115432GC_S11C1\obj\Debug\net6.0-windows\115432GC_S11C1.csproj.CoreCompileInputs.cache
+C:\Users\DixonEstuardo\source\repos\115432GC_S11C1\115432GC_S11C1\obj\Debug\net6.0-windows\115432GC_S11C1.dll
+C:\Users\DixonEstuardo\source\repos\115432GC_S11C1\115432GC_S11C1\obj\Debug\net6.0-windows\refint\115432GC_S11C1.dll
+C:\Users\DixonEstuardo\source\repos\115432GC_S11C1\115432GC_S11C1\obj\Debug\net6.0-windows\115432GC_S11C1.pdb
+C:\Users\DixonEstuardo\source\repos\115432GC_S11C1\115432GC_S11C1\obj\Debug\net6.0-windows\115432GC_S11C1.genruntimeconfig.cache
+C:\Users\DixonEstuardo\source\repos\115432GC_S11C1\115432GC_S11C1\obj\Debug\net6.0-windows\ref\115432GC_S11C1.dll

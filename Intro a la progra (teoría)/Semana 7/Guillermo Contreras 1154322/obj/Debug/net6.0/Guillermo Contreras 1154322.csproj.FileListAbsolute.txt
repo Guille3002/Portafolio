@@ -1,0 +1,15 @@
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Guillermo Contreras 1154322\bin\Debug\net6.0\Guillermo Contreras 1154322.exe
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Guillermo Contreras 1154322\bin\Debug\net6.0\Guillermo Contreras 1154322.deps.json
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Guillermo Contreras 1154322\bin\Debug\net6.0\Guillermo Contreras 1154322.runtimeconfig.json
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Guillermo Contreras 1154322\bin\Debug\net6.0\Guillermo Contreras 1154322.dll
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Guillermo Contreras 1154322\bin\Debug\net6.0\ref\Guillermo Contreras 1154322.dll
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Guillermo Contreras 1154322\bin\Debug\net6.0\Guillermo Contreras 1154322.pdb
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Guillermo Contreras 1154322\obj\Debug\net6.0\Guillermo Contreras 1154322.csproj.AssemblyReference.cache
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Guillermo Contreras 1154322\obj\Debug\net6.0\Guillermo Contreras 1154322.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Guillermo Contreras 1154322\obj\Debug\net6.0\Guillermo Contreras 1154322.AssemblyInfoInputs.cache
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Guillermo Contreras 1154322\obj\Debug\net6.0\Guillermo Contreras 1154322.AssemblyInfo.cs
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Guillermo Contreras 1154322\obj\Debug\net6.0\Guillermo Contreras 1154322.csproj.CoreCompileInputs.cache
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Guillermo Contreras 1154322\obj\Debug\net6.0\Guillermo Contreras 1154322.dll
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Guillermo Contreras 1154322\obj\Debug\net6.0\ref\Guillermo Contreras 1154322.dll
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Guillermo Contreras 1154322\obj\Debug\net6.0\Guillermo Contreras 1154322.pdb
+C:\Users\Familia Bautista\Desktop\Guillermo 2022\Tareas URL\Guillermo Contreras 1154322\obj\Debug\net6.0\Guillermo Contreras 1154322.genruntimeconfig.cache

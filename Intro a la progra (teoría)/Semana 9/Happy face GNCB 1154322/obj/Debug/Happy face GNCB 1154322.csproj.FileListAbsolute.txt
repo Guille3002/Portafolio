@@ -1,0 +1,11 @@
+C:\Users\DixonEstuardo\source\repos\Happy face GNCB 1154322\Happy face GNCB 1154322\bin\Debug\Happy face GNCB 1154322.exe.config
+C:\Users\DixonEstuardo\source\repos\Happy face GNCB 1154322\Happy face GNCB 1154322\bin\Debug\Happy face GNCB 1154322.exe
+C:\Users\DixonEstuardo\source\repos\Happy face GNCB 1154322\Happy face GNCB 1154322\bin\Debug\Happy face GNCB 1154322.pdb
+C:\Users\DixonEstuardo\source\repos\Happy face GNCB 1154322\Happy face GNCB 1154322\obj\Debug\Happy face GNCB 1154322.csproj.AssemblyReference.cache
+C:\Users\DixonEstuardo\source\repos\Happy face GNCB 1154322\Happy face GNCB 1154322\obj\Debug\Happy face GNCB 1154322.csproj.SuggestedBindingRedirects.cache
+C:\Users\DixonEstuardo\source\repos\Happy face GNCB 1154322\Happy face GNCB 1154322\obj\Debug\Happy_face_GNCB_1154322.Form1.resources
+C:\Users\DixonEstuardo\source\repos\Happy face GNCB 1154322\Happy face GNCB 1154322\obj\Debug\Happy_face_GNCB_1154322.Properties.Resources.resources
+C:\Users\DixonEstuardo\source\repos\Happy face GNCB 1154322\Happy face GNCB 1154322\obj\Debug\Happy face GNCB 1154322.csproj.GenerateResource.cache
+C:\Users\DixonEstuardo\source\repos\Happy face GNCB 1154322\Happy face GNCB 1154322\obj\Debug\Happy face GNCB 1154322.csproj.CoreCompileInputs.cache
+C:\Users\DixonEstuardo\source\repos\Happy face GNCB 1154322\Happy face GNCB 1154322\obj\Debug\Happy face GNCB 1154322.exe
+C:\Users\DixonEstuardo\source\repos\Happy face GNCB 1154322\Happy face GNCB 1154322\obj\Debug\Happy face GNCB 1154322.pdb

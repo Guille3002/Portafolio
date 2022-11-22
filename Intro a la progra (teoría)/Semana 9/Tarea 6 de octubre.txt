@@ -1,0 +1,32 @@
+def my_function();
+	s = "No, print this!"
+	print(s)
+s = "Print this message."
+my_function()
+print(s)
+
+
+Console.WriteLine("Actividad 4 semana 8");
+Console.Clear();
+string[] aPalabras = {"HOLA", "casa", "carro", "lápiz", "uno", "dos", "tres", "ocho", "nueve", "diez"};
+string nombre = "ejemplo variable";
+
+for (int inc=0; inc< 10; inc ++)
+{
+    Console.WriteLine("Validando mayúsculas... " + aPalabras[inc]);
+    if (aPalabras[inc].ToUpper() == aPalabras[inc])
+    {
+        Console.WriteLine("La palabra: " + aPalabras[inc] + " es mayúscula.");
+    }
+}
+static bool esMayuscula(string input)
+{
+    for (int i = 0; i < input.Length; i ++)
+    {
+        if (!Char.IsUpper(input[i]))
+            return false;
+    }
+    return true;
+}
+
+     
